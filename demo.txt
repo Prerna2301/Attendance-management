@@ -1,8 +1,0 @@
--Font Box Align is not in Center
--All section  box is not in the proper in the page.
-
-
-
-// In the attendance box left spece is more then right side
-// In student zoom problem and search logo is less bigger than menu.
-// In report zoom problem
